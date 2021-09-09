@@ -1,0 +1,36 @@
+Version is:602931718
+System directory:C:\WINDOWS\system32
+Computer name:LAPTOP-E5ERBLSR
+User name:lokty
+
+Volume:1
+Name :\\?\Volume{78ab0e38-fbb2-4bf3-a753-02461f8732cf}\
+Path :C:\
+avaliable_space : 371214807040
+total_space : 488173989888
+
+Volume:2
+Name :\\?\Volume{8df0810f-b936-46af-a430-a972f22b3d1f}\
+Path :D:\
+avaliable_space : 10691039232
+total_space : 10736365568
+
+Volume:3
+Name :\\?\Volume{fb73972a-ed02-429e-997c-e56a4c279e53}\
+Path :
+no info
+
+Volume:4
+Name :\\?\Volume{780736ee-c541-4a92-9082-352127e59096}\
+Path :
+no info
+
+Program1:
+YandexDisk2
+C:\Users\lokty\AppData\Roaming\Yandex\YandexDisk2\3.2.6.4175\YandexDisk2.exe -autostart
+
+Frequency = 1e+07
+Time = 0.7
+
+Process returned 0 (0x0)   execution time : 2.340 s
+Press any key to continue.
